@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FilmQuiz</string>
+    <string name="vrai">Vrai</string>
+    <string name="faux">Faux</string>
+    <string name="question">Question</string>
+    <string name="score">Score</string>
+    <string name="question_1">Les éléphants ont-ils une mémoire à long terme ?</string>
+    <string name="question_2">Les poissons peuvent-ils respirer hors de l\'eau ?</string>
+    <string name="question_3">Les abeilles peuvent-elles voir le rouge ?</string>
+    <string name="question_4">Les chauves-souris sont-elles aveugles ?</string>
+    <string name="question_5">Les grenouilles peuvent-elles respirer sous l\'eau ?</string>
+    <string name="question_6">Les chameaux ont-ils trois yeux ?</string>
+    <string name="question_7">Le miel ne se périme-t-il jamais ?</string>
+    <string name="question_8">Les oiseaux sont-ils les seuls animaux capables de voler ?</string>
+    <string name="question_9">Les serpents peuvent-ils voir ?</string>
+    <string name="question_10">Les pingouins peuvent-ils voler ?</string>
+    <string name="answer">Réponse</string>
+    <string name="cheat">Tricher</string>
+    <string name="anwserLabel">La réponse est :</string>
+    <string name="restart_game_label">Recommencer</string>
+</resources>
